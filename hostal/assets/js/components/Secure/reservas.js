@@ -147,6 +147,9 @@ reservas._procesarUpdate = (element) => {
 
         $("#registerReservasView").submit((e) => {
             e.preventDefault()
+
+            let estado = $('#estadoReserva').val() == 'PENDIENTE' ? 'OCUPADO' : 'FINALIZADO'
+
             if ($("#registerReservasView").valid())
                 ajax.postJSON({
                     'url': '/back/actualizar-reservas',
@@ -154,8 +157,8 @@ reservas._procesarUpdate = (element) => {
                         'id_reservacion': element.id_reservacion,
                         'id_numero_habitacion': element.id_numero_habitacion,
                         'atencion_extra': $('#costoExtraReserva').val(),
-                        'precio_total': $('#costoTotalReserva').val(),
-                        'estado_reservacion': $('#estadoReserva').val() == 'PENDIENTE' ? 'OCUPADO' : 'FINALIZADO'
+                        'precio_total': (Number($('#costoTotalReserva').val()) + Number($('#costoExtraReserva').val())),
+                        'estado_reservacion': estado
                     },
                     'function': (response) => {
                         if (response.status) {

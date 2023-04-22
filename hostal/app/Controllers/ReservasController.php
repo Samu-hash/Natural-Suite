@@ -88,7 +88,7 @@ class ReservasController extends BaseController
       $habitacion = new  HabitacionesModel(new Mysql());
 
       $post = [
-        'atencion_extra' => $this->request->getVar('atencion_extraS'),
+        'atencion_extra' => $this->request->getVar('atencion_extra'),
         'precio_total' => $this->request->getVar('precio_total'),
         'estado_reservacion' => $this->request->getVar('estado_reservacion')
       ];

@@ -195,10 +195,7 @@
                         <i class="fas fa-address-book fa-address-book fa-stack-1x fa-inverse"></i>
                     </span>
                     <h4 class="my-3">Misión:</h4>
-                    <p class="text-muted">Ofrecer una experiencia de alojamiento acogedora y de alta calidad para los
-                        viajeros que visitan nuestra ciudad. Nos esforzamos por brindar un ambiente seguro, limpio y
-                        cómodo para nuestros huéspedes, además de ofrecer servicios excepcionales
-                        que superen sus expectativas.</p>
+                    <p class="text-muted">Ofrecer a nuestros huéspedes una experiencia única en un ambiente natural y acogedor, con atención personalizada y servicios de calidad que satisfagan sus necesidades y expectativas.</p>
                 </div>
                 <div class="col-md-4">
                     <span class="fa-stack fa-4x">
@@ -206,9 +203,7 @@
                         <i class="fas fa-signal fa-stack-1x fa-inverse"></i>
                     </span>
                     <h4 class="my-3">Visión:</h4>
-                    <p class="text-muted">Ser el hostal líder en nuestra ciudad y destacar por nuestra atención al cliente,
-                        servicios de alta calidad y ambiente acogedor. Queremos ser reconocidos por nuestros
-                        huéspedes como el lugar ideal para alojarse durante sus viajes.</p>
+                    <p class="text-muted">Ser reconocidos como un destino turístico de referencia en la zona de montaña, a través de la innovación constante en la oferta de servicios y la excelencia en la atención al cliente.</p>
                 </div>
                 <div class="col-md-4">
                     <span class="fa-stack fa-4x">
@@ -217,15 +212,11 @@
                     </span>
                     <h4 class="my-3">Valores:</h4>
                     <p class="text-muted">
-                        -Excelencia en el servicio al cliente: Brindamos una atención al cliente excepcional
-                        para asegurarnos de que nuestros huéspedes se sientan bienvenidos y cómodos durante su estadía.<br />
-                        -Limpieza e higiene: Mantenemos un alto estándar de limpieza y orden para garantizar la comodidad y
-                        eguridad de nuestros huéspedes.<br />
-                        -Innovación: Buscamos constantemente nuevas formas de mejorar la experiencia de nuestros
-                        huéspedes y mantenernos a la vanguardia en el mercado de hostales.<br />
-                        -Responsabilidad social y ambiental: Nos esforzamos por ser un negocio responsable
-                        con el medio ambiente y la comunidad en la que operamos, tomando medidas para reducir
-                        nuestra huella de carbono y contribuir positivamente a nuestra comunidad local.<br /></p>
+                    Satisfacción del cliente: trabajamos para superar las expectativas de nuestros huéspedes, brindándoles una experiencia inolvidable en nuestro hostal.<br/>
+                    -Compromiso con la calidad: ofrecemos servicios y productos de alta calidad, buscando siempre la mejora continua de nuestros procesos.<br/>
+                    -Responsabilidad social y ambiental: somos conscientes de nuestro impacto en la comunidad y el entorno natural, por lo que nos comprometemos a actuar de manera sostenible y responsable.<br/>
+                    -Trabajo en equipo: fomentamos un ambiente de colaboración y respeto, en el que cada miembro del equipo pueda aportar sus habilidades y conocimientos.<br/>
+                    -Innovación: buscamos estar a la vanguardia en la oferta de servicios turísticos, a través de la implementación de nuevas tecnologías y prácticas innovadoras.<br /></p>
                 </div>
             </div>
         </div>

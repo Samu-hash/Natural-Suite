@@ -6,7 +6,7 @@
                 <th>Usuario</th>
                 <th>Fecha desde</th>
                 <th>Fecha hasta</th>
-                <th>Estras</th>
+                <th>Extras</th>
                 <th>Total</th>
                 <th>Estado</th>
                 <th></th>
